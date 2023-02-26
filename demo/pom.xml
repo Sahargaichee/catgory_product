@@ -64,6 +64,6 @@
 				</configuration>
 			</plugin>
 		</plugins>
-	</build>
+		<finalName>produit-1.0.0</finalName>	</build>
 
 </project>
